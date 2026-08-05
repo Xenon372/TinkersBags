@@ -1,0 +1,15 @@
+{
+  "tool": "tinkers_bags:backpack",
+  "text": [
+    { "text": "Great for holding all of your precious items." }
+  ],
+  "properties": [
+    "Mid Durability",
+    "Low Protection",
+    "2 Upgrade Slots",
+    "1 Ability Slot",
+    "4 Material Traits",
+    "Hoarding",
+    "Heavy I"
+  ]
+}

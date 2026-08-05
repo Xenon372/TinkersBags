@@ -1,0 +1,33 @@
+{
+  "layers": [
+    {
+      "type": "tconstruct:first_present",
+      "options": [
+        {
+          "type": "tconstruct:dyed",
+          "prefix": "tinkers_bags:backpack/plating_"
+        },
+        {
+          "type": "tconstruct:material",
+          "index": 0,
+          "prefix": "tinkers_bags:backpack/plating_"
+        }
+      ]
+    },
+    {
+      "type": "tconstruct:material",
+      "index": 1,
+      "prefix": "tinkers_bags:backpack/straps_"
+    },
+    {
+      "type": "tconstruct:material",
+      "index": 2,
+      "prefix": "tinkers_bags:backpack/panel_left_"
+    },
+    {
+      "type": "tconstruct:material",
+      "index": 3,
+      "prefix": "tinkers_bags:backpack/panel_right_"
+    }
+  ]
+}

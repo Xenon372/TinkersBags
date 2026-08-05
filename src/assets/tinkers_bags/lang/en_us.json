@@ -1,0 +1,25 @@
+{
+  "itemGroup.tinkers_bags.tinkers_bags": "Tinkers' Bags",
+  
+  "item.tinkers_bags.canvas": "Canvas",
+  "pattern.tinkers_bags.canvas": "Canvas",
+  
+  "item.tinkers_bags.travelers_bindle": "Traveler's Bindle",
+  "item.tinkers_bags.travelers_bindle.description": "The Traveler's Bindle is a staff variant providing a wider variety of options for the handle for creating highly customizable tool.",
+  
+  "modifier.tinkers_bags.small_stash": "Small Stash",
+  "modifier.tinkers_bags.small_stash.2": "Slightly Larger Stash",
+  "modifier.tinkers_bags.small_stash.flavor": "Perfect for storing some acorns",
+  "modifier.tinkers_bags.small_stash.description": "Lets you store a few precious belongings",
+  
+  "item.tinkers_bags.backpack": "Backpack",
+  "item.tinkers_bags.backpack.description": "The Backpack is a piece of armor that lets you get one step closer to carrying the world on your shoulders.",
+  
+  "modifier.tinkers_bags.hoarding": "Hoarding",
+  "modifier.tinkers_bags.hoarding.flavor": "Hopefully not buried alive",
+  "modifier.tinkers_bags.hoarding.description": "Lets you store a bunch of items, which can be accessed by interacting while sneaking",
+  
+  "modifier.tinkers_bags.extra_pocket": "Extra Pocket",
+  "modifier.tinkers_bags.extra_pocket.flavor": "Allows carrying of more items",
+  "modifier.tinkers_bags.extra_pocket.description": "Tools gains an additional 3 slots of storage"
+}

@@ -1,0 +1,46 @@
+{
+  "translation_key": "item.tinkers_bags.backpack",
+  "icon": {
+    "item": "tinkers_bags:backpack",
+    "nbt": "{Damage:0,tic_broken:0b,tic_display:1b,tic_materials:[\"tconstruct:ui_render#head\",\"tconstruct:ui_render#handle\",\"tconstruct:ui_render#extra\",\"tconstruct:ui_render#large\",\"tconstruct:ui_render#extra_large\"]}"
+  },
+  "sortIndex": 22,
+  "input_slots": [
+    {
+      "filter": {
+          "item": "tconstruct:chestplate_plating"
+        },
+      "icon": "tconstruct:plating",
+      "translation_key": "pattern.tconstruct.plating",
+      "x": 33,
+      "y": 29
+    },
+    {
+      "filter": {
+        "item": "tinkers_bags:canvas"
+      },
+      "icon": "tinkers_bags:canvas",
+      "translation_key": "item.tinkers_bags.canvas",
+      "x": 33,
+      "y": 53
+    },
+    {
+      "filter": {
+        "item": "tconstruct:shield_core"
+      },
+      "icon": "tconstruct:shield_core",
+      "translation_key": "item.tconstruct.shield_core",
+      "x": 13,
+      "y": 41
+    },
+    {
+      "filter": {
+        "item": "tconstruct:shield_core"
+      },
+      "icon": "tconstruct:shield_core",
+      "translation_key": "item.tconstruct.shield_core",
+      "x": 53,
+      "y": 41
+    }
+  ]
+}

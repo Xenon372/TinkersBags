@@ -1,0 +1,22 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "forge:item/default-tool",
+  "textures": {
+    "stick": "tinkers_bags:item/tool/travelers_bindle/stick",
+    "binding": "tinkers_bags:item/tool/travelers_bindle/binding",
+    "sack":   "tinkers_bags:item/tool/travelers_bindle/sack"
+  },
+  "modifier_maps": [ "tinkers_bags:travelers_bindle" ],
+  "first_modifiers": [ "tconstruct:dyed" ],
+  "parts": [
+    { "name": "stick", "index": 0 },
+    { "name": "binding",   "index": 1 },
+    { "name": "sack" }
+  ],
+  "overrides": [
+    {
+      "predicate": { "tconstruct:charging": 2 },
+      "model": "tinkers_bags:item/travelers_bindle/blocking"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "forge:item/default",
+  "textures": {
+    "plating": "tinkers_bags:item/tool/backpack/plating_broken",
+    "strap": "tinkers_bags:item/tool/backpack/straps",
+    "panel_left": "tinkers_bags:item/tool/backpack/panel_left",
+    "panel_right": "tinkers_bags:item/tool/backpack/panel_right",
+    "clasp":  "tinkers_bags:item/tool/backpack/clasp"
+  },
+  "parts": [
+    { "name": "plating", "index": 0 },
+    { "name": "strap", "index": 1 },
+    { "name": "panel_left", "index": 2 },
+    { "name": "panel_right", "index": 3 },
+    { "name": "clasp" }
+  ],
+  "modifier_maps": [ "tinkers_bags:backpack/backpack_broken" ],
+  "first_modifiers": [ "tconstruct:embellishment", "tconstruct:dyed" ]
+}

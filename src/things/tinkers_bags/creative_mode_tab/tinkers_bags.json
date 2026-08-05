@@ -1,0 +1,10 @@
+{
+  "icon": "tinkers_bags:travelers_bindle",
+  "after": ["tconstruct:world"],
+  "translation_key": "itemGroup.tinkers_bags.tinkers_bags",
+  "items": [
+    "tinkers_bags:travelers_bindle",
+    "tinkers_bags:backpack",
+    "tinkers_bags:canvas"
+  ]
+}

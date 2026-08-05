@@ -1,0 +1,23 @@
+modLoader="lowcodefml"
+loaderVersion="*"
+issueTrackerURL="https://github.com/Xenon372/TinkersBags/issues"
+license="MIT"
+[[mods]]
+    modId="tinkers_bags"
+    version="1.0.0"
+    displayName="Tinkers' Bags"
+    description='''
+    A small Thing Pack for Tinkers' Construct. Adds some bags for storing your precious items.
+    '''
+[[dependencies.tinkers_bags]]
+    modId="tconstruct"
+    mandatory=true
+    versionRange="[3.11.0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.tinkers_bags]]
+    modId="jsonthings"
+    mandatory=true
+    versionRange="[0.9.9,)"
+    ordering="NONE"
+    side="BOTH"

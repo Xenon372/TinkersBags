@@ -1,0 +1,40 @@
+{
+  "translation_key": "item.tinkers_bags.travelers_bindle",
+  "icon": {
+    "item": "tinkers_bags:travelers_bindle",
+    "nbt": {
+      "tic_display": true,
+      "tic_materials": ["tconstruct:ui_render#head", "tconstruct:ui_render#handle", "tconstruct:ui_render#extra"]
+    }
+  },
+  "sortIndex": 21,
+  "input_slots": [
+    {
+      "filter": {
+        "item": "tconstruct:bow_limb"
+      },
+      "icon": "tconstruct:bow_limb",
+      "translation_key": "item.tconstruct.bow_limb",
+      "x": 28,
+      "y": 38
+    },
+    {
+      "filter": {
+        "item": "tconstruct:bowstring"
+      },
+      "icon": "tconstruct:bowstring",
+      "translation_key": "item.tconstruct.bowstring",
+      "x": 50,
+      "y": 38
+    },
+    {
+      "filter": {
+        "item": "minecraft:leather"
+      },
+      "icon": "tinkers_bags:leather",
+      "translation_key": "item.minecraft.leather",
+      "x": 50,
+      "y": 58
+    }
+  ]
+}
