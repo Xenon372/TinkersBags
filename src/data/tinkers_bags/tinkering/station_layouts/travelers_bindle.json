@@ -29,10 +29,10 @@
     },
     {
       "filter": {
-        "item": "minecraft:leather"
+        "item": "tinkers_bags:canvas"
       },
-      "icon": "tinkers_bags:leather",
-      "translation_key": "item.minecraft.leather",
+      "icon": "tinkers_bags:canvas",
+      "translation_key": "item.tinkers_bags.canvas",
       "x": 50,
       "y": 58
     }

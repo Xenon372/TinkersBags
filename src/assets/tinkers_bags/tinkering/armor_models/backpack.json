@@ -5,6 +5,7 @@
       "options": [
         {
           "type": "tconstruct:dyed",
+          "modifier": "tconstruct:dyed",
           "prefix": "tinkers_bags:backpack/plating_"
         },
         {

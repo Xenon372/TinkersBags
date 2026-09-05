@@ -4,7 +4,7 @@ issueTrackerURL="https://github.com/Xenon372/TinkersBags/issues"
 license="MIT"
 [[mods]]
     modId="tinkers_bags"
-    version="1.0.0"
+    version="1.0.4"
     displayName="Tinkers' Bags"
     description='''
     A small Thing Pack for Tinkers' Construct. Adds some bags for storing your precious items.
@@ -12,7 +12,7 @@ license="MIT"
 [[dependencies.tinkers_bags]]
     modId="tconstruct"
     mandatory=true
-    versionRange="[3.11.0,)"
+    versionRange="[3.12.0,)"
     ordering="NONE"
     side="BOTH"
 [[dependencies.tinkers_bags]]

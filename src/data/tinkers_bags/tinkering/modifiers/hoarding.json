@@ -8,6 +8,22 @@
     {
       "type": "tconstruct:inventory_menu",
       "on_key": "shift"
+    },
+    {
+      "type": "tconstruct:attribute",
+      "attribute": "minecraft:generic.movement_speed",
+      "flat": -0.05,
+      "each_level": -0.05,
+      "operation": "multiply_base",
+      "slots": [ "chest" ]
+    },
+    {
+      "type": "tconstruct:attribute",
+      "attribute": "forge:entity_gravity",
+      "each_level": 0.05,
+      "operation": "multiply_total",
+      "slots": [ "chest" ],
+      "tooltip_style": "percent"
     }
   ],
   "tooltip_display": "always"

@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tinkers_bags:reorganized",
+  "text": [
+    {
+      "text": "Instead of trying to cram all of the upgrades on your tool, try sorting them first. You'll be able to fit more that way."
+    }
+  ],
+  "effects": [
+    "Adds an upgrade slot",
+    "Single level",
+    "Slotless"
+  ]
+}

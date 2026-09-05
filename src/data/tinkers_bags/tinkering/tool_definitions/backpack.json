@@ -54,10 +54,6 @@
         {
           "name": "tinkers_bags:hoarding",
           "level": 1
-        },
-        {
-          "name": "tconstruct:heavy",
-          "level": 1
         }
       ]
     },
@@ -70,10 +66,6 @@
       "traits": [
         {
           "name": "tinkers_bags:hoarding",
-          "level": 1
-        },
-        {
-          "name": "tconstruct:heavy",
           "level": 1
         }
       ]

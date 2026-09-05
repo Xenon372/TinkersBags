@@ -1,3 +1,4 @@
 {
-  "tinkers_bags:extra_pocket":  "tinkers_bags:gui/modifiers/extra_pocket"
+  "tinkers_bags:extra_pocket":  "tinkers_bags:gui/modifiers/extra_pocket",
+  "tinkers_bags:reorganized":  ["tinkers_bags:gui/modifiers/reorganized", "tconstruct:gui/modifiers/plus"]
 }

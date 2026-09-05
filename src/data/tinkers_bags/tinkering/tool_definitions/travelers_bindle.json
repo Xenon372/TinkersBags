@@ -4,7 +4,8 @@
       "type": "tconstruct:part_stats",
       "parts": [
         "tconstruct:bow_limb",
-        "tconstruct:bowstring"
+        "tconstruct:bowstring",
+        "tinkers_bags:canvas"
       ],
       "primary_part": 0
     },
@@ -18,6 +19,10 @@
         {
           "type": "tconstruct:random",
           "tier": 1
+        },
+        {
+          "type": "tconstruct:fixed",
+          "material": "tconstruct:leather"
         }
       ]
     },

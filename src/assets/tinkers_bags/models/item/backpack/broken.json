@@ -15,6 +15,6 @@
     { "name": "panel_right", "index": 3 },
     { "name": "clasp" }
   ],
-  "modifier_maps": [ "tinkers_bags:backpack/backpack_broken" ],
+  "modifier_roots": [ "tinkers_bags:item/tool/backpack/modifiers/" ],
   "first_modifiers": [ "tconstruct:embellishment", "tconstruct:dyed" ]
 }

@@ -5,6 +5,7 @@
 	
     { "path": "tinkers_bags:item/tool/travelers_bindle/stick",      "stat_type": "tconstruct:limb" },
     { "path": "tinkers_bags:item/tool/travelers_bindle/binding",        "stat_type": "tconstruct:bowstring" },
+    { "path": "tinkers_bags:item/tool/travelers_bindle/sack",        "stat_type": "tconstruct:cuirass",   "allow_animated": true },
 	
     { "path": "tinkers_bags:item/tool/backpack/plating",        "stat_type": "tconstruct:plating_chestplate",   "allow_animated": true },
     { "path": "tinkers_bags:item/tool/backpack/plating_broken", "stat_type": "tconstruct:plating_chestplate",   "allow_animated": true },

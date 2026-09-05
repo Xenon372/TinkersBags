@@ -8,7 +8,6 @@
     { "item": "minecraft:leather" }
   ],
   "tools": { "item": "tinkers_bags:backpack" },
-  "level": { "max": 3 },
   "slots": { "upgrades": 1 },
   "allow_crystal": true,
   "result": "tinkers_bags:extra_pocket"

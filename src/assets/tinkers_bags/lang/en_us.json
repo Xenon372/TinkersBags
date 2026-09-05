@@ -5,7 +5,7 @@
   "pattern.tinkers_bags.canvas": "Canvas",
   
   "item.tinkers_bags.travelers_bindle": "Traveler's Bindle",
-  "item.tinkers_bags.travelers_bindle.description": "The Traveler's Bindle is a staff variant providing a wider variety of options for the handle for creating highly customizable tool.",
+  "item.tinkers_bags.travelers_bindle.description": "The Traveler's Bindle is a small staff that lets you carry a few things with you on your adventures.",
   
   "modifier.tinkers_bags.small_stash": "Small Stash",
   "modifier.tinkers_bags.small_stash.2": "Slightly Larger Stash",
@@ -21,5 +21,9 @@
   
   "modifier.tinkers_bags.extra_pocket": "Extra Pocket",
   "modifier.tinkers_bags.extra_pocket.flavor": "Allows carrying of more items",
-  "modifier.tinkers_bags.extra_pocket.description": "Tools gains an additional 3 slots of storage"
+  "modifier.tinkers_bags.extra_pocket.description": "Tool gains an additional 3 slots of storage",
+  
+  "modifier.tinkers_bags.reorganized": "Reorganized",
+  "modifier.tinkers_bags.reorganized.flavor": "Nice and tidy!",
+  "modifier.tinkers_bags.reorganized.description": "Allows another upgrade slot to fit in your backpack!"
 }
