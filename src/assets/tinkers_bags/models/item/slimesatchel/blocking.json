@@ -1,0 +1,73 @@
+{
+  "parent": "tinkers_bags:item/slimesatchel",
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        45,
+        135,
+        0
+      ],
+      "translation": [
+        2.2,
+        2,
+        1
+      ],
+      "scale": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        45,
+        135,
+        0
+      ],
+      "translation": [
+        2.2,
+        2,
+        1
+      ],
+      "scale": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "translation": [
+        -5,
+        0,
+        -0.2
+      ],
+      "scale": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "translation": [
+        -5,
+        0,
+        -0.2
+      ],
+      "scale": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    }
+  }
+}

@@ -16,7 +16,7 @@
     { "name": "clasp" }
   ],
   "modifier_maps": [ "tinkers_bags:backpack/backpack" ],
-  "first_modifiers": [ "tconstruct:embellishment", "tconstruct:dyed" ],
+  "modifier_roots": [ "tinkers_bags:item/tool/backpack/modifiers/" ],
   "overrides": [
     {
       "predicate": { "tconstruct:broken": 1 },

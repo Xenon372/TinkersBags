@@ -1,0 +1,19 @@
+{
+  "constant": {
+    "__dyed": {
+      "type": "tconstruct:crafted",
+      "model": {
+        "type": "tconstruct:dyed",
+        "texture": "tinkers_bags:item/tool/slimesatchel/modifiers/dyed"
+      },
+      "modifier": "tconstruct:dyed"
+    },
+    "fluid": [
+      {
+        "type": "tconstruct:tank",
+        "full": "tinkers_bags:item/tool/slimesatchel/modifiers/tank_full",
+        "partial": "tinkers_bags:item/tool/slimesatchel/modifiers/tank_partial"
+      }
+    ]
+  }
+}

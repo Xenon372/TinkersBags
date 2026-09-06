@@ -5,7 +5,10 @@
     { "item": "minecraft:crafting_table" },
     { "item": "minecraft:leather" }
   ],
-  "tools": { "item": "tinkers_bags:backpack" },
+  "tools": [
+	{ "item": "tinkers_bags:backpack" },
+	{ "item": "tinkers_bags:slimesatchel" }
+  ],
   "level": 1,
   "check_trait_level": true,
   "allow_crystal": true,

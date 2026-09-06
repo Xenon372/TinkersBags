@@ -1,0 +1,14 @@
+{
+  "tool": "tinkers_bags:slimesatchel",
+  "text": [
+    { "text": "Slime, a shield and a satchel, all at once? What more could you ask for? A slimesatchel is a handy thing to bring with you on an adventure." },
+    { "text": "To create this spectacular shield, pour slime on a shield core in a basin.", "paragraph": true }
+  ],
+  "properties": [
+    "Low Block Potential",
+    "0 Defense Slots",
+    "3 Upgrade Slots",
+    "2 Ability Slots",
+    "Shell Storage"
+  ]
+}

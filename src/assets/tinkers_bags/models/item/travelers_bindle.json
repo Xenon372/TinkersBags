@@ -7,7 +7,7 @@
     "sack":   "tinkers_bags:item/tool/travelers_bindle/sack"
   },
   "modifier_maps": [ "tinkers_bags:travelers_bindle" ],
-  "first_modifiers": [ "tconstruct:dyed" ],
+  "modifier_roots": [ "tinkers_bags:item/tool/travelers_bindle/modifiers/" ],
   "parts": [
     { "name": "stick", "index": 0 },
     { "name": "binding",   "index": 1 },

@@ -1,0 +1,17 @@
+{
+  "type": "tconstruct:modifier",
+  "inputs": [
+    { "item": "minecraft:rabbit_hide" },
+    { "tag":  "forge:ingots/gold" },
+    { "item": "minecraft:rabbit_hide" },
+    { "item": "minecraft:leather" },
+    { "item": "minecraft:leather" }
+  ],
+  "tools": [
+	{ "item": "tinkers_bags:backpack" },
+	{ "item": "tinkers_bags:slimesatchel" }
+  ],
+  "slots": { "upgrades": 1 },
+  "allow_crystal": true,
+  "result": "tinkers_bags:extra_pocket"
+}

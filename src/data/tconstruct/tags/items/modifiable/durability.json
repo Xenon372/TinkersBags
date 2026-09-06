@@ -1,6 +1,8 @@
 {
   "replace": false,
   "values": [
-    "tinkers_bags:backpack"
+    "tinkers_bags:travelers_bindle",
+    "tinkers_bags:backpack",
+    "tinkers_bags:slimesatchel"
   ]
 }

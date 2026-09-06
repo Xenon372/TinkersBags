@@ -1,0 +1,26 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "tinkers_bags:item/slimesatchel/display",
+  "textures": {
+    "case": "tinkers_bags:item/tool/slimesatchel/case",
+    "flap": "tinkers_bags:item/tool/slimesatchel/flap",
+    "clasp":  "tinkers_bags:item/tool/slimesatchel/clasp"
+  },
+  "parts": [
+    { "name": "case", "index": 0 },
+    { "name": "flap", "index": 1 },
+    { "name": "clasp" }
+  ],
+  "modifier_maps": [ "tinkers_bags:slimesatchel" ],
+  "modifier_roots": [ "tinkers_bags:item/tool/slimesatchel/modifiers/" ],
+  "overrides": [
+    {
+      "predicate": { "tconstruct:charging": 2 },
+      "model": "tinkers_bags:item/slimesatchel/blocking"
+    },
+    {
+      "predicate": { "tconstruct:broken": 1 },
+      "model": "tinkers_bags:item/slimesatchel/broken"
+    }
+  ]
+}

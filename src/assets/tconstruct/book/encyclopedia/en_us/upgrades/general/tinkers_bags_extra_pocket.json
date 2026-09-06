@@ -1,8 +1,8 @@
 {
-  "modifier_id": "tinkers_bags:backpack",
+  "modifier_id": "tinkers_bags:extra_pocket",
   "text": [
     {
-      "text": "Adds 3 additional slots to the backpack."
+      "text": "Adds 3 additional slots to the tool. Slimesatchels also gain half a bucket of tank capacity per level."
     }
   ],
   "more_text_space": true,

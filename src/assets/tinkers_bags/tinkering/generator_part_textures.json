@@ -12,6 +12,10 @@
     { "path": "tinkers_bags:item/tool/backpack/straps",        "stat_type": "tconstruct:cuirass",   "allow_animated": true },
     { "path": "tinkers_bags:item/tool/backpack/panel_left",         "stat_type": "tconstruct:shield_core",   "allow_animated": true },
     { "path": "tinkers_bags:item/tool/backpack/panel_right",         "stat_type": "tconstruct:shield_core",   "allow_animated": true },
+	
+    { "path": "tinkers_bags:item/tool/slimesatchel/flap",        "stat_type": "tconstruct:slime" },
+    { "path": "tinkers_bags:item/tool/slimesatchel/case",      "stat_type": "tconstruct:shield_core",   "allow_animated": true },
+    { "path": "tinkers_bags:item/tool/slimesatchel/case_broken",        "stat_type": "tconstruct:shield_core",   "allow_animated": true },
     
     { "path": "tinkers_bags:tinker_armor/backpack/plating_armor",    "stat_type": "tconstruct:armor_plating", "allow_animated": false },
     { "path": "tinkers_bags:tinker_armor/backpack/straps_armor",    "stat_type": "tconstruct:cuirass", "allow_animated": false },

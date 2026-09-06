@@ -8,6 +8,20 @@
     {
       "type": "tconstruct:inventory_menu",
       "on_key": "shift"
+    },
+    {
+      "type": "tconstruct:stat_boost",
+      "flat": 500.0,
+      "operation": "add",
+      "stat": "tconstruct:tank_capacity",
+      "tool": {
+        "type": "tconstruct:has_modifier",
+        "check": "all",
+        "modifier": {
+          "type": "tconstruct:single",
+          "modifier": "tinkers_bags:reservoir"
+        }
+      }
     }
   ],
   "tooltip_display": "always"

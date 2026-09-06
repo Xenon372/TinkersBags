@@ -4,5 +4,8 @@
   "slots": {
     "abilities": 1
   },
-  "tools": { "item": "tinkers_bags:backpack" }
+  "tools": [
+	{ "item": "tinkers_bags:backpack" },
+	{ "item": "tinkers_bags:slimesatchel" }
+  ]
 }

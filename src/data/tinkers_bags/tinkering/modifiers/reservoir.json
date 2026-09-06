@@ -1,0 +1,26 @@
+{
+  "level_display": "tconstruct:default",
+  "modules": [
+    {
+      "type": "tconstruct:inventory",
+      "slots": { "each_level": 9 }
+    },
+    {
+      "type": "tconstruct:inventory_menu",
+      "on_key": "shift"
+    },
+    {
+      "type": "tconstruct:stat_boost",
+      "flat": 3000.0,
+      "operation": "add",
+      "stat": "tconstruct:tank_capacity"
+    },
+    {
+      "type": "tconstruct:trait",
+      "fixed_level": true,
+      "level": 1,
+      "name": "tconstruct:tank_handler"
+    }
+  ],
+  "tooltip_display": "always"
+}

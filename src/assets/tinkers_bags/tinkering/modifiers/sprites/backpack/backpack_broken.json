@@ -1,0 +1,12 @@
+{
+  "constant": {
+    "__dyed": {
+      "type": "tconstruct:crafted",
+      "model": {
+        "type": "tconstruct:dyed",
+        "texture": "tinkers_bags:item/tool/backpack/modifiers/dyed_broken"
+      },
+      "modifier": "tconstruct:dyed"
+    }
+  }
+}

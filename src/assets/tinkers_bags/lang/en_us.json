@@ -19,6 +19,17 @@
   "modifier.tinkers_bags.hoarding.flavor": "Hopefully not buried alive",
   "modifier.tinkers_bags.hoarding.description": "Lets you store a bunch of items, which can be accessed by interacting while sneaking",
   
+  "item.tinkers_bags.slimesatchel": "Slimesatchel",
+  "item.tinkers_bags.slimesatchel.material.tconstruct.ichor": "Ichorsatchel",
+  "item.tinkers_bags.slimesatchel.material.tconstruct.magma": "Magmasatchel",
+  "item.tinkers_bags.slimesatchel.material.tconstruct.clay": "Claytchel",
+  "item.tinkers_bags.slimesatchel.material.tconstruct.honey": "Honeysatchel",
+  "item.tinkers_bags.slimesatchel.material.tconstruct.ender_pearl": "Endersatchel",
+  
+  "modifier.tinkers_bags.reservoir": "Reservoir",
+  "modifier.tinkers_bags.reservoir.flavor": "Hopefully not buried alive",
+  "modifier.tinkers_bags.reservoir.description": "Lets you store a bunch of items and fluids, which can be accessed by interacting while sneaking",
+  
   "modifier.tinkers_bags.extra_pocket": "Extra Pocket",
   "modifier.tinkers_bags.extra_pocket.flavor": "Allows carrying of more items",
   "modifier.tinkers_bags.extra_pocket.description": "Tool gains an additional 3 slots of storage",

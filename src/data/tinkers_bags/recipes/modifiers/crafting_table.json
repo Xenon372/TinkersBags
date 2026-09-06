@@ -5,7 +5,10 @@
     { "item": "tconstruct:crafting_station" },
     { "item": "minecraft:leather" }
   ],
-  "tools": { "item": "tinkers_bags:backpack" },
+  "tools": [
+	{ "item": "tinkers_bags:backpack" },
+	{ "item": "tinkers_bags:slimesatchel" }
+  ],
   "slots": { "abilities": 1 },
   "level": 1,
   "check_trait_level": true,

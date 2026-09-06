@@ -1,0 +1,14 @@
+{
+  "type": "tconstruct:modifier",
+  "inputs": [
+    { "item": "minecraft:book" },
+    { "tag":  "forge:chests/wooden" }
+  ],
+  "tools": [
+	{ "item": "tinkers_bags:backpack" },
+	{ "item": "tinkers_bags:slimesatchel" }
+  ],
+  "level": 1,
+  "allow_crystal": true,
+  "result": "tinkers_bags:reorganized"
+}

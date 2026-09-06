@@ -4,5 +4,9 @@
   "slots": {
     "upgrades": 1
   },
-  "tools": [ { "item": "tinkers_bags:travelers_bindle" }, { "item": "tinkers_bags:backpack" } ]
+  "tools": [
+	{ "item": "tinkers_bags:travelers_bindle" },
+	{ "item": "tinkers_bags:backpack" },
+	{ "item": "tinkers_bags:slimesatchel" }
+	]
 }
