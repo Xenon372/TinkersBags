@@ -58,9 +58,18 @@
       "type": "tconstruct:traits",
       "traits": [
         {
-          "level": 1,
-          "name": "tconstruct:blocking"
-        },
+          "name": "tconstruct:blocking",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "type": "tconstruct:traits",
+      "hooks": [
+        "tconstruct:tool_traits",
+        "tconstruct:rebalanced_trait"
+      ],
+      "traits": [
         {
           "level": 1,
           "name": "tinkers_bags:reservoir"

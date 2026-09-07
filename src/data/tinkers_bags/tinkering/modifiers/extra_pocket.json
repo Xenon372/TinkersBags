@@ -11,7 +11,7 @@
     },
     {
       "type": "tconstruct:stat_boost",
-      "flat": 500.0,
+      "each_level": 500.0,
       "operation": "add",
       "stat": "tconstruct:tank_capacity",
       "tool": {
