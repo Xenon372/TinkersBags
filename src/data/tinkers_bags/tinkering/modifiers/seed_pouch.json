@@ -1,13 +1,9 @@
 {
-  "level_display": {
-    "type": "tconstruct:unique",
-    "first_unique": false,
-    "unique_until": 2
-  },
+  "level_display": "tconstruct:default",
   "modules": [
     {
       "type": "tconstruct:inventory",
-      "slots": { "each_level": 6 }
+      "slots": { "each_level": 10 }
     },
     {
       "type": "tconstruct:inventory_menu",

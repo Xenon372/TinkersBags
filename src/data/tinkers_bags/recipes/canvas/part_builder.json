@@ -1,6 +1,6 @@
 {
   "type": "tconstruct:part_builder",
-  "cost": 2,
+  "cost": 1,
   "pattern": "tinkers_bags:canvas",
   "pattern_item": {
     "tag": "tconstruct:patterns/default"
