@@ -1,5 +1,11 @@
 {
-  "icon": "tinkers_bags:travelers_bindle",
+  "icon": {
+	"item": "tinkers_bags:backpack",
+	"nbt": {
+	  "tic_display": true,
+	  "tic_materials": [ "tconstruct:ui_render#head", "tconstruct:ui_render#handle", "tconstruct:ui_render#extra" ]
+    }
+  },
   "after": ["tconstruct:world"],
   "translation_key": "itemGroup.tinkers_bags.tinkers_bags",
   "items": [
