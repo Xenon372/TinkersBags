@@ -6,7 +6,7 @@
     }
   ],
   "effects": [
-    "Adds 3 more slots to the backpack",
+    "Adds 3 more inventory slots to the tool",
     "Multiple levels, each level adds more slots",
     "Requires 1 upgrade slot per level"
   ]
