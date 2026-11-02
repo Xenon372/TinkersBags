@@ -2,16 +2,8 @@
   "level_display": "tconstruct:single_level",
   "modules": [
     {
-      "type": "tconstruct:inventory",
-      "slots": { "each_level": 9 }
-    },
-    {
-      "type": "tconstruct:inventory_menu",
-      "on_key": "shift"
-    },
-    {
       "type": "tconstruct:stat_boost",
-      "flat": 1000.0,
+      "flat": 2000.0,
       "each_level": 2000.0,
       "operation": "add",
       "stat": "tconstruct:tank_capacity"

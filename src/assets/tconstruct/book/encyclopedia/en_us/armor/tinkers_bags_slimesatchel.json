@@ -1,7 +1,7 @@
 {
   "tool": "tinkers_bags:slimesatchel",
   "text": [
-    { "text": "The Slimesatchel is a lightweight shield that comes with some storage space for your items, some fluids and a ton of upgrades." },
+    { "text": "The Slimesatchel is a lightweight shield that comes with some storage space for fluids and a ton of upgrades." },
     { "text": " Created by pouring slime on a shield core." }
   ],
   "properties": [
